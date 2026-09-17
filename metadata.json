@@ -1,0 +1,6 @@
+{
+  "name": "Coimbatore CleanWater",
+  "description": "Community GIS & Lake Monitoring Platform for urban lake rejuvenation and environmental monitoring in Coimbatore, Tamil Nadu.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
